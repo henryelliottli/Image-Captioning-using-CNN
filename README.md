@@ -34,3 +34,7 @@ Tune the hyperparameters by editing the `default.json` file:
 - vocab.py: A simple Vocabulary wrapper
 - coco_dataset: A simple implementation of `torch.utils.data.Dataset` the Coco Dataset
 - get_datasets.ipynb: A helper notebook to set up the dataset in your workspace
+
+## Examples
+![My Image](images/frisbee.png)
+Generated Caption: A group of people playing a game of frisbee
