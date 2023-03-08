@@ -36,5 +36,14 @@ Tune the hyperparameters by editing the `default.json` file:
 - get_datasets.ipynb: A helper notebook to set up the dataset in your workspace
 
 ## Examples
-![My Image](images/frisbee.png)
-Generated Caption: A group of people playing a game of frisbee
+![Frisbee Image](images/frisbee.png)
+- Generated Caption: A group of people playing a game of frisbee
+
+![Cat Image](images/cat-on-porch.png)
+- Generated Caption: A cat sitting on a bench outdoors next to shrubbery
+
+![Skateboard Image](images/man-riding-skateboard.png)
+- Generated Caption: a man riding a skateboard down a ramp
+
+
+
