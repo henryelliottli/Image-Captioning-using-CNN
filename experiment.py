@@ -144,9 +144,9 @@ class Experiment(object):
             
         return val_loss
 
-    # TODO: Implement your test function here. Generate sample captions and evaluate loss and
+    # TODO: Implement test function here. Generate sample captions and evaluate loss and
     #  bleu scores using the best model. Use utility functions provided to you in caption_utils.
-    #  Note than you'll need image_ids and COCO object in this case to fetch all captions to generate bleu scores.
+    #  Note image_ids and COCO object needed in this case to fetch all captions to generate bleu scores.
     def test(self, mode="stochastic", temperature=0.1):
         self.__model.eval()
         test_loss = 0
